@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" 
+targetNamespace="http://www.example.org/author" 
+xmlns:tns="http://www.example.org/author" elementFormDefault="unqualified">
+
+<complexType name="birtdateType">
+	<sequence>
+		<element name="year" type="integer"></element>
+		<element name="month" type="string"></element>
+		<element name="day" type="integer"></element>
+	</sequence>
+</complexType>
+
+	<complexType name="authorType">
+		<sequence>
+			<element name="author_id" type="integer"></element>
+			<element name="name" type="string"></element>
+			<element name="birt_date" type="tns:birtdateType" ></element>
+			<element name="gender" type="string"></element>
+			<element name="married_status" type="string"></element>
+		</sequence>
+		<attribute name="country" type="string"></attribute>
+	</complexType>
+
+		<complexType name="authorsType"  > 
+			<sequence>
+				<element name="author" type="tns:authorType" minOccurs="1" maxOccurs="unbounded"></element>
+			</sequence>
+		</complexType>
+
+			<element name="authors" type="tns:authorsType"></element>
+
+</schema>

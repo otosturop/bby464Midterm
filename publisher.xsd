@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" 
+targetNamespace="http://www.example.org/publisher" 
+xmlns:tns="http://www.example.org/publisher" elementFormDefault="unqualified">
+
+     		<complexType name="adressType">
+                <sequence>
+                    <element name="city" type="string"></element>
+                    <element name="district" type="string"></element>
+                    <element name="Street" type="string"></element>
+                    <element name="zipcode" type="integer"></element>
+                </sequence>
+            </complexType>    
+    
+        <complexType name="publisherType" >
+            <sequence>
+                <element name="name" type="string"></element>
+                <element name="year" type="integer"></element>
+                <element name="adress" type="tns:adressType"></element>
+                <element name="email" type="string"></element>
+            </sequence>
+            <attribute name="no" type="integer" ></attribute>    
+        </complexType >
+
+    <complexType name="publishersType">
+        <sequence>
+            <element name="publisher" type="tns:publisherType" minOccurs="1" maxOccurs="unbounded"></element>
+        </sequence>
+    </complexType>
+  
+<element name="publishers" type="tns:publishersType" ></element>
+
+
+
+</schema>

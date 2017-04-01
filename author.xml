@@ -1,48 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<author>
-    
+<?xml-stylesheet type="text/xsl" href="author.xsl"?>
+<authors>
     <author country="Turkey">
         <author_id>1</author_id>
-        <name>Ahmet Ümit</name>
-        <birth_year>1960</birth_year>
+        <name>Ahmet Ümit</name>       
+        <birth_date>
+            <year>1960</year>
+            <month>Temmuz</month>
+            <day>7</day>
+        </birth_date>       
         <gender>Erkek</gender>
         <married_status>Evli</married_status>
     </author>
     <author country="Turkey">
         <author_id>2</author_id>
         <name>Ömer Zülfü Livanelioğlu</name>
-        <birth_year>1946</birth_year>
+        <birth_date>
+            <year>1946</year>
+            <month>Haziran</month>
+            <day>20</day>
+        </birth_date>
         <gender>Erkek</gender>
         <married_status>Evli</married_status>
     </author>
     <author country="Turkey">
         <author_id>3</author_id>
         <name>Elif Şafak</name>
-        <birth_year>1971</birth_year>
+        <birth_date>
+            <year>1971</year>
+            <month>Ekim</month>
+            <day>25</day>
+        </birth_date>
         <gender>Kadın</gender>
         <married_status>Evli</married_status>
     </author>
     <author country="ABD">
         <author_id>4</author_id>
         <name>Adam Fawer</name>
-        <birth_year>1970</birth_year>
+        <birth_date>
+            <year>1970</year>
+            <month>Ocak</month>
+            <day>1</day>
+        </birth_date>
         <gender>Erkek</gender>
         <married_status>Evli</married_status>
     </author>    
     <author country="Canada">
         <author_id>5</author_id>
         <name>Margaret Atwood</name>
-        <birth_year>1939</birth_year>
+        <birth_date>
+            <year>1939</year>
+            <month>Kasım</month>
+            <day>18</day>
+        </birth_date>
         <gender>Kadın</gender>
         <married_status>Bekar</married_status>
     </author>    
         <author country="Germany">
         <author_id>6</author_id>
         <name>Franz Kafka</name>
-        <birth_year>1883</birth_year>
+        <birth_date>
+            <year>1883</year>
+            <month>Temmuz</month>
+            <day>3</day>
+        </birth_date>
         <gender>Erkek</gender>
         <married_status>Bekar</married_status>
     </author>    
 
-</author>
+</authors>

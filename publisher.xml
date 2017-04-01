@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="publisher.xsl"?>
+<publishers>
+    <publisher country="Turkey">
+        <publisher_id>1</publisher_id>
+        <name>Everest Yayınları</name>
+        <year>2006</year>
+        <adress>
+            <city>İstanbul</city>
+            <district>Cağaloğlu</district>
+            <Street>Ticarethane</Street>
+            <zipcode>34000</zipcode>
+        </adress>
+        <email>info@everestyayinlari.com</email>
+    </publisher>
+    <publisher country="Turkey">
+        <publisher_id>2</publisher_id>
+        <name>Doğan Kitap</name>
+        <year>1999</year>
+        <adress>
+            <city>İstanbul</city>
+            <district>Şişli</district>
+            <Street>19 Mayıs</Street>
+            <zipcode>34000</zipcode>
+        </adress>
+        <email>satis@dogankitap.com.tr</email>
+    </publisher>
+    <publisher country="ABD">
+        <publisher_id>3</publisher_id>
+        <name>Arrowbooks</name>
+        <year>1964</year>
+        <adress>
+            <city>Iowa</city>
+            <district>Cedar Rapids</district>
+            <Street>IA 52410 </Street>
+            <zipcode>52401</zipcode>
+        </adress>
+        <email>orders@arrowbookstore.com</email>
+    </publisher>
+    <publisher country="UNITED KİNGDOM">
+        <publisher_id>4</publisher_id>
+        <name>Penguin Books</name>
+        <year>1935</year>
+        <adress>
+            <city>London</city>
+            <district>Westminster</district>
+            <Street>20 Vauxhall Bridge Road</Street>
+            <zipcode>WC2N 5</zipcode>
+        </adress>
+        <email>ibrariansden@us.penguingroup.com</email>
+    </publisher>
+</publishers>
