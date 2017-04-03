@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc= "http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="category">
+    <dc:title>Aşk</dc:title>
+    <dc:creator>Elif şafak</dc:creator>
+    <dc:date>2009</dc:date>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:language>Türkçe</dc:language>   
+</rdf:Description>   
+<rdf:Description rdf:about="category">
+    <dc:title>Fifty Shades of Grey</dc:title>
+    <dc:creator>E. L. James</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>Arrowbooks</dc:publisher>
+    <dc:language>English</dc:language>
+ </rdf:Description>   
+ <rdf:Description rdf:about="category">
+    <dc:title>Vinegar Girl</dc:title>
+    <dc:creator>Anne Tyler</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>Penguin Books</dc:publisher>
+    <dc:language>English</dc:language>
+ </rdf:Description>
+ <rdf:Description rdf:about="category">
+    <dc:title>Masumiyet Müzesi</dc:title>
+    <dc:creator>Orhan Pamuk</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:language>Türkçe</dc:language>
+ </rdf:Description>
+ <rdf:Description rdf:about="category">
+    <dc:title>Beyoğu Rapsodisi</dc:title>
+    <dc:creator>Ahmet Ümit</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>Everest Yayınları</dc:publisher>
+    <dc:language>Türkçe</dc:language>
+ </rdf:Description>
+ <rdf:Description rdf:about="category">
+    <dc:title>İstanbul Hatırası</dc:title>
+    <dc:creator>Ahmet Ümit</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>Everest Yayınları</dc:publisher>
+    <dc:language>Türkçe</dc:language>
+ </rdf:Description>
+ <rdf:Description rdf:about="category">
+    <dc:title>Kardeşiminn Hikayesi</dc:title>
+    <dc:creator>Zülfü Livaneli</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:language>Türkçe</dc:language>
+ </rdf:Description>
+ <rdf:Description rdf:about="category">
+    <dc:title>Murder on the Orient Express</dc:title>
+    <dc:creator>Agatha Christie</dc:creator>
+    <dc:date>2007</dc:date>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>HarperCollins Publishers</dc:publisher>
+    <dc:language>English</dc:language>
+ </rdf:Description>
+ <rdf:Description rdf:about="category">
+    <dc:title>The Life of Saul Bellow</dc:title>
+    <dc:creator>Zachary Leader</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>Penguin Books</dc:publisher>
+    <dc:language>English</dc:language>
+ </rdf:Description>
+ <rdf:Description rdf:about="category">
+    <dc:title>Engereğin Gözü</dc:title>
+    <dc:creator>Zülfü Livaneli</dc:creator>
+    <dc:date>2004</dc:date>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:language>Türkçe</dc:language>
+ </rdf:Description>
+ <rdf:Description rdf:about="category">
+    <dc:title>Alamut Fedailerin Kalesi</dc:title>
+    <dc:creator>Vladimir Bartol</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>Koridor Yayıncılık</dc:publisher>
+    <dc:language>Türkçe</dc:language>
+ </rdf:Description>
+ <rdf:Description rdf:about="category">
+    <dc:title>Star Wars:Heir to the Jedi</dc:title>
+    <dc:creator>Kevin Hearne</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>Arrowbooks</dc:publisher>
+    <dc:language>English</dc:language>
+ </rdf:Description>
+ <rdf:Description rdf:about="category">
+    <dc:title>Harry Potter and the Cursed Child</dc:title>
+    <dc:creator>J. K. Rowling</dc:creator>
+    <dc:date>2012</dc:date>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>Little, Brown Book</dc:publisher>
+    <dc:language>English</dc:language>
+ </rdf:Description>
+ <rdf:Description rdf:about="category">
+    <dc:title>Suç ve Ceza</dc:title>
+    <dc:creator>Fyodor Mihailoviç Dostoyevski</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:language>Türkçe</dc:language>
+ </rdf:Description>
+ <rdf:Description rdf:about="category">
+    <dc:title>Dönüşüm</dc:title>
+    <dc:creator>Franz Kafka</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>İş Bankası Yayınları</dc:publisher>
+    <dc:language>Türkçe</dc:language>
+ </rdf:Description>
+                
+    
+    
+</rdf:RDF>
